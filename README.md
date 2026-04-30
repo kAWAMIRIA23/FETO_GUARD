@@ -131,13 +131,6 @@ jupyter notebook KAWANGUZI_MARIA_MIRIA_UGANDA_FINAL_PROJECT.ipynb
 - Scikit-learn for machine learning
 - Jupyter Notebook for analysis
 
-## Future Improvements
-
-- Try additional models such as XGBoost and LightGBM
-- Add cross-validation for stronger evaluation
-- Deploy the model with Flask, FastAPI, or Streamlit
-- Build a real-time prediction web app
-
 ## Future Work – FetoGuard Vision
 
 Building on the success of CTG-based prediction, the FetoGuard system can be further enhanced by incorporating ultrasound (sonogram) imaging with machine learning techniques.
@@ -154,9 +147,13 @@ Ultimately, integrating these technologies has the potential to transform prenat
 
 ![FetoGuard vision: ultrasound imaging](images/fetoguard-vision-ultrasound.png)
 
-## Acknowledgments
+## In Conclusion
+This project is a personal journey. I have seen the pain of losing babies in my own family losses that came without warning, and without answers in time.
 
-- Dataset from Kaggle
-- Inspired by the role of machine learning in healthcare
+Feto Guard is built from that place of loss, but also from hope, that technology can help detect risks earlier, support doctors, and give more families a chance at healthy outcomes.
+
+Even if it helps just one life, then it matters.
+
+ Inspired by the role of machine learning in healthcare
 
 THANK YOU KUJENGA
